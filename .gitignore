@@ -1,0 +1,76 @@
+# macOS
+.AppleDouble
+.DS_Store
+.LSOverride
+
+# Iconos de escritorio
+Icon?
+._*
+
+# Archivos de Spotlight
+.metadata_never_index
+
+# Archivos de Thumbnails
+Thumbs.db
+
+# Archivos de montaje de volúmenes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Archivos Xcode
+build/
+DerivedData/
+.idea/
+xcuserdata/
+*.xcscmblueprint
+
+# Archivos de CocoaPods
+Pods/
+
+# Archivos Carthage
+Carthage/Build/
+
+# Archivos Swift Package Manager
+.build/
+Package.resolved
+
+# Archivos de Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+
+# Archivos generados por Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Archivos de configuración de Git
+.git/
+
+# Configuración de entornos específicos
+.env
+*.env
+
+# Archivos de logs
+*.log
+
+# Archivos de caché
+*.swp
+*.swo
+*.tmp
+
+# Archivos de cobertura de pruebas
+*.xccovreport
+*.xccovarchive
+
+# Configuración de usuario
+*.mode1v3
+*.pbxuser
+
+# Otros
+*.lock
+*.orig
